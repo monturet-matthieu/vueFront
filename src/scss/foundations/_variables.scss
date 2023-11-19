@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700&display=swap');
+
+@import "./fonctions";
+
+// couleurs
+$color-main: #F48E28;
+$color-main_light: #F5DDC4;
+$color-white: #FFF;
+$color-black: #000;
+$color-gray: #B6B6B6;
+
+// taille texte
+$font_size-small: rem(13);
+$font_size-litle: rem(18);
+$font_size-regular: rem(26);
+$font_size-big: rem(36);
+$font_size-mega: rem(48);
+$font_size-extra: rem(95);
+
+// style texte
+$font_weight-regular: 400;
+$font_weight-medium: 500;
+$font_weight-semibold: 600;
+$font_weight-bold: 700;
+
+// style texte
+$font: 'Montserrat', sans-serif;
+
+// media query
+$small: 600px;
+$medium: 760px;
+$large: 960px;
